@@ -3,7 +3,7 @@ import sys
 
 def banner():
     print("="*50)
-    print("   Shadow's Port Scanner v1.0")
+    print("   Port Scanner v1.0")
     print("   Powered by python-nmap")
     print("="*50)
 
